@@ -1,0 +1,14 @@
+body
+{
+	font-family : monospace;
+	background-color: rgb(212, 141, 79);
+	color: white;
+}
+
+img
+{
+	border-color : silver;
+	border-width : 3px;
+	border-style : translucent;
+	margin : 2%;
+}
